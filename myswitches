@@ -1,0 +1,8 @@
+192.168.122.71
+192.168.122.82
+192.168.122.83
+192.168.122.84
+192.168.122.85
+192.168.122.86
+
+#These are your switches ips, you should include every switch's IP here which you want to control via your scripts.
